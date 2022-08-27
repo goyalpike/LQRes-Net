@@ -53,5 +53,3 @@ year    = {2020}
 
 
 [3]. [*ROM Operator Inference Python 3 package*](https://github.com/Willcox-Research-Group/rom-operator-inference-Python3)
-
-Hey!
